@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Pavel Bondarenko](https://up.htmlacademy.ru/htmlcss/25/user/161376).
-* Наставник: `Неизвестно`.
+* Наставник: [Roman Marchenko](https://htmlacademy.ru/profile/id505487).
 
 ---
 
